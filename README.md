@@ -8,4 +8,10 @@
    node rutas.js
    ```
 
-2.
+2. Ejemplo de conexión a base de datos con mysql2
+
+   En este ejemplo se hace una coneión a una base de datos mysql usando el conector mysql2. luego se realiza la inserción de un registro de prueba en la tabla de usuarios
+
+   ```bash
+   node conexion_bd.js
+   ```
