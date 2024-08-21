@@ -1,0 +1,11 @@
+## Segunda clase de profundización en desarrollo de software
+
+1. Ejemplo de rutas básicas con express
+
+   En este ejemplo de se hace uso de express para iniciar un servidor que escuche las peticiones http, tambien se hace uso de las rutas y los metodos http get, post, put y delete
+
+   ```bash
+   node rutas.js
+   ```
+
+2.
